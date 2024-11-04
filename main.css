@@ -24,3 +24,29 @@ h1,h2,h3{
 p{
     text-align: center;
 }
+.clear{
+    clear: both;
+}
+h2{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    box-sizing: border-box;
+
+    width: 10%;
+    float: left;
+}
+
+section{
+    border: 3 solid black;
+    width: 80%;
+    float: left;
+}
+article{
+border: 4 solid white;
+    width: 10%;
+    float: left;
+}
+/* adjusted 3 columns */
