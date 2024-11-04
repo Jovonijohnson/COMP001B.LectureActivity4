@@ -1,11 +1,9 @@
 /*
  Welcome2thedungeon
 */
-
 body {
     padding: 20;
     margin: 20;
-
 }
 /* Added Background color */
 header {
@@ -17,7 +15,6 @@ header {
     text-align: right;
 }
 /* Added blue border */
-
 h1,h2,h3{
     color: green;
 }
@@ -39,6 +36,13 @@ nav{
     float: left;
 }
 
+button{
+    color: green;
+}
+
+a{
+    color: darkblue;
+}
 section{
     border: 3 solid black;
     width: 80%;
