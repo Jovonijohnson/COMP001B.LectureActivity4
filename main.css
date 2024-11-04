@@ -1,0 +1,14 @@
+/*
+ Welcome2thedungeon
+*/
+
+body {
+    padding: 20;
+    margin: 20;
+
+}
+/* Added Background color */
+header {
+    border: 25px solid black;
+    width: 100%;
+}
